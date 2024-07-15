@@ -1,2 +1,7 @@
 *.ssh
 .vim*
+.bash*
+.profile
+.sudo*
+.wget*
+.terraform.d

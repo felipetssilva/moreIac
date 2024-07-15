@@ -5,3 +5,4 @@
 .sudo*
 .wget*
 .terraform.d
+.terraform
